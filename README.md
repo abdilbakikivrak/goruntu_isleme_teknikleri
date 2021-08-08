@@ -1,1 +1,1 @@
-# goruntu_isleme_teknikleri
+
