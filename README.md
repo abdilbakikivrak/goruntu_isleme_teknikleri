@@ -1,1 +1,1 @@
-görüntü işleme algoritma ve tekniklerini çalıştığım python kaynak dosyalarını bu başlık altında topluyorum. 
+You can review my work on image processing algorithms and techniques developed using the Python programming language here.
